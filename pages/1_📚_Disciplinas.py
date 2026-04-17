@@ -1,3 +1,4 @@
+# pagina de disciplinas.
 import streamlit as st
 
 st.set_page_config(page_title="EduTrack AI - Disciplinas", page_icon="📚")
